@@ -1,0 +1,26 @@
+{
+  "name": "plana-co-studio｜plana-智策共創室第三版",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react-dom": "^19.2.0",
+    "react": "^19.2.0",
+    "@google/genai": "^1.29.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.3",
+    "marked": "^14.0.0",
+    "html-to-docx-file-saver": "^1.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
